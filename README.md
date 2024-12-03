@@ -1,0 +1,2 @@
+# Health-Hospital-Outpatient-Online-Registration-System
+基于Spring Boot和Vue开发的健康医院门诊在线挂号系统，旨在简化就医流程，提升患者体验。系统提供在线挂号、预约查询和医生信息浏览等功能，使患者能够方便地选择合适的医生和时间。后端使用Spring Boot保障数据安全与稳定，前端采用Vue框架，创造友好的用户界面。该系统不仅提高了挂号效率，还减少了患者的排队等候时间，推动了智慧医疗的发展。
